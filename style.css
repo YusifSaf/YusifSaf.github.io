@@ -1,0 +1,51 @@
+body {
+    background-color: orange;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    margin: 10;
+}
+
+.imNot {
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+a {
+    color: hotpink;
+    text-decoration: none;
+    letter-spacing: 0px;
+}
+
+a:hover {
+    color: lightskyblue;
+    letter-spacing: 2px;
+}
+
+.coverImage {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.coverImage img {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    padding-right: 500px;
+}
+
+.coverText {
+    width: 300px;
+    padding: 15px;   
+    border-radius: 10px;
+    box-shadow: 0 10px 0 rgba(255, 0, 0, 0.1);
+    line-height: 1.6;
+}
+
+/* img {
+    margin-top: 10px;
+} */
