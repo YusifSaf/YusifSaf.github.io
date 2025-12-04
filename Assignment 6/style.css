@@ -158,7 +158,7 @@ border-radius: 50%
 
 .coming-soon-container{
     position: fixed;
-    bottom: 110px;
+    bottom: 95px;
     left: 20px;
     /* padding: 1px 45px; */
     z-index: 10;
